@@ -18,7 +18,6 @@ Reset Functionality: Clear the entire form with a single click.
 
 
 
-<img width="838" height="468" alt="image" src="https://github.com/user-attachments/assets/8223a513-14a6-4d4b-843f-f0c839e2a0ee" />
 
 🛠️ Built With
 Language: C#
